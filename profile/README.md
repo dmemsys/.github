@@ -5,9 +5,9 @@ Welcome to DMemSys, a collaboration hub that brings together passionate research
 We open-source and maintain our works in top system conferences, *e.g.*, OSDI, SOSP, and FAST.
 Feel free to contribute to our repositories.
 
-### 👩‍💻 Maintainer list
+### 👩‍💻 Maintainer List
 
-| Project                                                                                 | Maintainer                                      | Affiliation                         | Conference | Discription                                                                                                             |
+| Project                                                                                 | Maintainer                                      | Affiliation                         | Conference | Description                                                                                                             |
 | :-------------------------------------------------------------------------------------- | :---------------------------------------------- | :---------------------------------- | :--------- | :---------------------------------------------------------------------------------------------------------------------- |
 | [awesome-disaggregated-memory](https://github.com/dmemsys/awesome-disaggregated-memory) | [Jiacheng Shen](https://github.com/bernardshen) | Duke Kunshan University             | N/A        | A collection of awesome researchers and papers about disaggregated memory.                                              |
 | [SMART](https://github.com/dmemsys/SMART)                                               | [Xuchuan Luo](https://github.com/River861)      | Fudan University                    | OSDI'23    | The implementation repository of *SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory*.              |
