@@ -1,11 +1,11 @@
 
-## Welcome to DMemSys 👋
+## DMemSys: <ins>**D**</ins>isaggregated <ins>**Mem**</ins>ory <ins>**Sys**</ins>tems 😎
 
-Welcome to DMemSys, a collaboration hub that brings together passionate researchers from multiple research institutions to advance the frontiers of memory disaggregation. 
+Welcome to **DMemSys**, a collaboration hub that brings together passionate researchers from multiple research institutions to advance the frontiers of memory disaggregation. 
 We open-source and maintain our works in top system conferences, *e.g.*, OSDI, SOSP, and FAST.
 Feel free to contribute to our repositories.
 
-### 👩‍💻 Maintainer List
+### 🧑‍💻 Maintainer List
 
 | Project                                                                                 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Maintainer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                     | Affiliation                         | Conference | Description                                                                                                             |
 | :-------------------------------------------------------------------------------------- | :---------------------------------------------- | :---------------------------------- | :--------- | :---------------------------------------------------------------------------------------------------------------------- |
